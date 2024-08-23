@@ -1,5 +1,5 @@
 {
-  "name": "spotlight",
+  "name": "@aoe0203/spotlight",
   "version": "1.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
@@ -46,5 +46,8 @@
     "node": ">=18.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
