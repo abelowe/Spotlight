@@ -31,7 +31,7 @@ To install the plugin, follow these steps:
    git clone https://github.com/abelowe/Spotlight.git
    ```
 
-   2. Install the plugin via npm:
+2. Install the plugin via npm:
 
    ```sh
    npm i @aoe0203/spotlight
