@@ -29,13 +29,19 @@
     "styled-components": "^5.2.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Alozie Ekentason",
+    "email": "alozie.ekentason@gmail.com"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Alozie Ekentason",
+      "email": "alozie.ekentason@gmail.com"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abelowe/Spotlight.git"
+  },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
     "npm": ">=6.0.0"
